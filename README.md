@@ -8,6 +8,6 @@ Do you ever tired walking just to buy some food at local supermarket? Just brows
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Authors
-**Danke Hidayat** - [dankehidayat](https://github.com/dankehidayat).
+[Danke Hidayat](https://github.com/dankehidayat).
 
 See also the list of [contributors](https://github.com/dankehidayat/Food-Market/contributors) who participated in this project.
